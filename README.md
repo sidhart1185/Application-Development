@@ -1,7 +1,10 @@
 On behalf of my Group 
- our app features 
+our app features 
+ 
  
 Features
+
+
 Plain text notes - take notes in an IDE-like environment that makes no assumptions
 Markdown preview - view rendered HTML
 Linked notes - use {{uuid}} syntax to link to notes within other notes
@@ -15,6 +18,8 @@ No WYSIWYG - made for developers, by developers
 No database - notes are only stored in the browser's local storage and are available for download and export to you alone
 No tracking or analytics - 'nuff said
 GitHub integration - self-hosted option is available for auto-syncing to a GitHub repository (not available in the demo)
+
+
 About
 TakeNote is a note-taking app for the web. 
 
