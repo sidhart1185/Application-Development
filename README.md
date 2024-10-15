@@ -1,3 +1,6 @@
+Some Query for the app 
+
+
 CREATE TABLE [dbo].[Products] (
     [ProductID]     INT           NOT NULL,
     [ProductName]   NVARCHAR (50) NOT NULL,
